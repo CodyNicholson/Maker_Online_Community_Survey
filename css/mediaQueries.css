@@ -1,0 +1,15 @@
+@media screen and (min-width: 610px) and (max-width: 767px)
+{
+  textarea
+  {
+    cols = "70";
+  }
+}
+
+@media screen and (min-width: 767px) and (max-width: 991px)
+{
+  textarea
+  {
+    cols = "100";
+  }
+}
